@@ -2,7 +2,7 @@
 
 ## Introduction
 
-FollowMe is a tracking app which provides real time location of the baby with the help of GPS. This app is built on Dart programming laguage, firebase and google cloud for real time monitoring. It sounds an alarm when the child is out of the Safe Zone and is also capable of giving Real Time Location of the Child through the Google Map Embedded in the App.
+FollowMe is a tracking app which provides real-time location of the baby with the help of GPS. This app is built on Dart programming language, firebase and google cloud for real time monitoring. It sounds an alarm when the child is out of the Safe Zone and is also capable of giving Real Time Location of the Child through the Google Map Embedded in the App.
 
 ## Features
 
