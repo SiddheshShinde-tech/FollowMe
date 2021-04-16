@@ -34,11 +34,3 @@ FollowMe is a tracking app which provides real time location of the baby with th
 ![alt image3](https://i.ibb.co/LSXDBkL/Whats-App-Image-2021-04-15-at-11-52-27-1.jpg)
 
 ![alt image4](https://i.ibb.co/YXzT3ry/Whats-App-Image-2021-04-16-at-19-19-33.jpg)
-
-<a href="https://ibb.co/wLq5hyR"><img src="https://i.ibb.co/W3Xmvn6/Whats-App-Image-2021-04-15-at-11-52-27.jpg" alt="Whats-App-Image-2021-04-15-at-11-52-27" border="0" /></a>
-
-<a href="https://ibb.co/1qqh4Qr"><img src="https://i.ibb.co/nccZKm7/Whats-App-Image-2021-04-15-at-16-00-02.jpg" alt="Whats-App-Image-2021-04-15-at-16-00-02" border="0" /></a>
-
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/LSXDBkL/Whats-App-Image-2021-04-15-at-11-52-27-1.jpg" alt="Whats-App-Image-2021-04-15-at-11-52-27-1" border="0" /></a>
-
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/YXzT3ry/Whats-App-Image-2021-04-16-at-19-19-33.jpg" alt="Whats-App-Image-2021-04-16-at-19-19-33" border="0" /></a>
