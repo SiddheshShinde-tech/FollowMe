@@ -27,7 +27,7 @@ FollowMe is a tracking app which provides real time location of the baby with th
 
 ### Parent App UI
 
-<img src="https://i.ibb.co/W3Xmvn6/Whats-App-Image-2021-04-15-at-11-52-27.jpg" width="140">
+<img src="https://i.ibb.co/W3Xmvn6/Whats-App-Image-2021-04-15-at-11-52-27.jpg" width="200">
 
 ![alt image2](https://i.ibb.co/nccZKm7/Whats-App-Image-2021-04-15-at-16-00-02.jpg)
 
